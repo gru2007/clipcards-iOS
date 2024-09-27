@@ -8,15 +8,15 @@
 	</array>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>appclips:fruta.example</string>
+		<string>appclips:clipcards.r-artemev.ru</string>
 	</array>
 	<key>com.apple.developer.parent-application-identifiers</key>
 	<array>
-		<string>$(AppIdentifierPrefix)com.example.apple-samplecode.fruta</string>
+		<string>$(AppIdentifierPrefix)tech.ruslan.giftcards</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.example.fruta.$(SAMPLE_CODE_DISAMBIGUATOR)</string>
+		<string>group.gifrcards.appClipMigration</string>
 	</array>
 </dict>
 </plist>
