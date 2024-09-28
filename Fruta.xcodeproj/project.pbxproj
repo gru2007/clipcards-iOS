@@ -2095,7 +2095,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "iOS/iOS Clip.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = C4L8Q37YC4;
 				ENABLE_PREVIEWS = YES;
@@ -2114,7 +2114,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.0;
+				MARKETING_VERSION = 2.0.1;
 				OTHER_SWIFT_FLAGS = "-disallow-use-new-driver";
 				PRODUCT_BUNDLE_IDENTIFIER = tech.ruslan.giftcards.Clip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -2135,7 +2135,7 @@
 				CODE_SIGN_ENTITLEMENTS = "iOS/iOS Clip.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = C4L8Q37YC4;
 				ENABLE_PREVIEWS = YES;
@@ -2154,7 +2154,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.0;
+				MARKETING_VERSION = 2.0.1;
 				OTHER_SWIFT_FLAGS = "-disallow-use-new-driver";
 				PRODUCT_BUNDLE_IDENTIFIER = tech.ruslan.giftcards.Clip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -2176,7 +2176,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = iOS/iOS.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = C4L8Q37YC4;
 				INFOPLIST_FILE = iOS/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Fruta;
@@ -2190,7 +2190,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.0;
+				MARKETING_VERSION = 2.0.1;
 				OTHER_SWIFT_FLAGS = "-disallow-use-new-driver";
 				PRODUCT_BUNDLE_IDENTIFIER = tech.ruslan.giftcards;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -2211,7 +2211,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = iOS/iOS.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = C4L8Q37YC4;
 				INFOPLIST_FILE = iOS/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Fruta;
@@ -2225,7 +2225,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.0;
+				MARKETING_VERSION = 2.0.1;
 				OTHER_SWIFT_FLAGS = "-disallow-use-new-driver";
 				PRODUCT_BUNDLE_IDENTIFIER = tech.ruslan.giftcards;
 				PRODUCT_NAME = "$(TARGET_NAME)";
